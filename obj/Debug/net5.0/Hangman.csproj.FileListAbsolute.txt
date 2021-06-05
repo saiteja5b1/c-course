@@ -1,0 +1,15 @@
+/Users/sai/Documents/c#/Hangman/bin/Debug/net5.0/Hangman.deps.json
+/Users/sai/Documents/c#/Hangman/bin/Debug/net5.0/Hangman.runtimeconfig.json
+/Users/sai/Documents/c#/Hangman/bin/Debug/net5.0/Hangman.runtimeconfig.dev.json
+/Users/sai/Documents/c#/Hangman/bin/Debug/net5.0/Hangman.dll
+/Users/sai/Documents/c#/Hangman/bin/Debug/net5.0/ref/Hangman.dll
+/Users/sai/Documents/c#/Hangman/bin/Debug/net5.0/Hangman.pdb
+/Users/sai/Documents/c#/Hangman/obj/Debug/net5.0/Hangman.csproj.AssemblyReference.cache
+/Users/sai/Documents/c#/Hangman/obj/Debug/net5.0/Hangman.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sai/Documents/c#/Hangman/obj/Debug/net5.0/Hangman.AssemblyInfoInputs.cache
+/Users/sai/Documents/c#/Hangman/obj/Debug/net5.0/Hangman.AssemblyInfo.cs
+/Users/sai/Documents/c#/Hangman/obj/Debug/net5.0/Hangman.csproj.CoreCompileInputs.cache
+/Users/sai/Documents/c#/Hangman/obj/Debug/net5.0/Hangman.dll
+/Users/sai/Documents/c#/Hangman/obj/Debug/net5.0/ref/Hangman.dll
+/Users/sai/Documents/c#/Hangman/obj/Debug/net5.0/Hangman.pdb
+/Users/sai/Documents/c#/Hangman/obj/Debug/net5.0/Hangman.genruntimeconfig.cache
